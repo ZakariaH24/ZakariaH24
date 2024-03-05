@@ -1,4 +1,10 @@
-### Hi there 👋
+My name is Zakaria and this is my github page.
+This is the beginning of my journey in data analytics.
+I want to use this page to showcase the many project I have done with Hyperiondev who have helped jump start my career in data analytics.
+I am intersted in sports and want to use data analytics to understand it in a more technical fashion.
+Thank you very much in taking the time out of your day to check my page out.
+Enjoy
+Zakaria
 
 <!--
 **ZakariaH24/ZakariaH24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
